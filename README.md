@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inaakbar
 - 👀 I’m interested in Competitive programming
-- 🌱 I’m currently web development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
